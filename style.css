@@ -1,0 +1,25 @@
+body {
+    background-color: #45624d;
+    color:#F5EFEB;
+}
+h1 {
+    text-align: center;
+    margin-top: 15px;
+}
+.container {
+    text-align: center;
+    font-size: 40px;
+}
+h3 {
+    font-size: 45px;
+    background-color: #C8D9E6;
+    margin-left: 550px;
+    color:#45624d;
+    margin-right: 550px;
+    border-radius: 45px;
+}
+img {
+    width: 100px;
+    height: auto;
+    border-radius: 50px;
+}
